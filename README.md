@@ -1,3 +1,8 @@
+<!-- Profile pic centered -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" alt="Puneet Kushwaha" width="120" height="120" style="border-radius: 50%;" />
+</p>
+
 <!-- 🌈 Gradient header -->
 <h1 align="center" style="background: linear-gradient(90deg, #1e3c72, #2a5298); -webkit-background-clip: text; color: transparent; font-weight: 900;">
   Hi, I'm Puneet! 👋
@@ -20,6 +25,11 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+---
+
+<!-- rest of your code remains the same -->
+
 
 ---
 
