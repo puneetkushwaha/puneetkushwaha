@@ -75,7 +75,6 @@
 | **Hydra-AI**  | Voice assistant with offline LLM integration | [GitHub](https://github.com/puneetkushwaha/Hydra-AI-2.0)   |
 | **QuizTrek**  | Interactive quiz platform                   | [GitHub](https://github.com/puneetkushwaha/Quiz-Trek)      |
 | **VerveNova** | Farming toolkit with crop analysis features | [GitHub](https://github.com/puneetkushwaha/Verve-Nova-Agency) |
-| **MedMate**   | AI-powered healthcare assistant             | [GitHub](https://github.com/puneetkushwaha/MedMate)         |
 
 ---
 
