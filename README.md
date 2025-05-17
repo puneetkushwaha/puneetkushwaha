@@ -51,7 +51,7 @@
 | Python                 | JavaScript (ES6+), TypeScript| Matplotlib, Seaborn            | Postman, Docker (Basics)       |
 | JavaScript             | React, Next.js                | TensorFlow, PyTorch            | MySQL, MongoDB, Firebase       |
 | SQL                    | Node.js, Express.js           | Jupyter Notebook               |                               |
-| R                      | Tailwind CSS, Bootstrap, jQuery| Excel                        |                               |
+|                        | Tailwind CSS, Bootstrap, jQuery| Excel                        |                               |
 
 ---
 
