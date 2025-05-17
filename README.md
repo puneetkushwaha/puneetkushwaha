@@ -38,7 +38,7 @@
 
 - 🔭 Working on: **Jarvis AI assistant** (Offline LLM-powered voice assistant)  
 - 💡 Building: **MedMate** – AI-powered healthcare assistant app  
-- 🌱 Learning: Advanced Machine Learning & Android Development  
+- 🌱 Learning: Advanced Machine Learning & Data Science
 - 💬 Ask me about: Java, Web Dev, AI, Data Science  
 
 ---
