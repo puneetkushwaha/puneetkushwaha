@@ -18,10 +18,10 @@ Java | Python | JavaScript | SQL | R
 HTML5 | CSS3 | JavaScript (ES6+) | TypeScript | React | Next.js | Node.js | Express.js | Tailwind CSS | Bootstrap | jQuery
 
 ### Data Science & Machine Learning  
-Pandas | NumPy | Matplotlib | Seaborn | Plotly | scikit-learn | TensorFlow | Keras | PyTorch | Jupyter Notebook | Google Colab | SQL | Excel | R | Statsmodels | Apache Spark (Basics) | Hadoop (Basics)
+Pandas | NumPy | Matplotlib | Seaborn | TensorFlow | PyTorch | Jupyter Notebook | SQL | Excel 
 
 ### Tools & Platforms  
-Git | GitHub | VS Code | Postman | Docker (Basics) | AWS (Basics) | Google Cloud (Basics) | MySQL | MongoDB | Firebase
+Git | GitHub | VS Code | Postman | Docker (Basics) | MySQL | MongoDB | Firebase
 
 ---
 
@@ -33,8 +33,6 @@ Git | GitHub | VS Code | Postman | Docker (Basics) | AWS (Basics) | Google Cloud
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
