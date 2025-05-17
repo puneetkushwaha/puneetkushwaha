@@ -41,15 +41,27 @@ Git | GitHub | VS Code | Postman | Docker (Basics) | MySQL | MongoDB | Firebase
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneet123&show_icons=true&theme=radical&count_private=true)  
+<!-- Replace 'puneet123' with your GitHub username -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puneet123&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=puneet123&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=puneet123&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet123&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 15px;">
+      <img src="https://streak-stats.demolab.com?user=puneet123&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
