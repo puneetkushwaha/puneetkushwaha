@@ -1,6 +1,6 @@
 <!-- Profile pic centered -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" alt="Puneet Kushwaha" width="120" height="120" style="border-radius: 50%;" />
+  <img src="[https://avatars.githubusercontent.com/u/your_github_id?v=4](https://avatars.githubusercontent.com/u/148247654?s=400&u=1360f1c588c283e7172084f4a4358a98b466fdb9&v=4)" alt="Puneet Kushwaha" width="120" height="120" style="border-radius: 50%;" />
 </p>
 
 <!-- 🌈 Gradient header -->
