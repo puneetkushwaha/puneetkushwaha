@@ -51,12 +51,12 @@ Git | GitHub | VS Code | Postman | Docker (Basics) | MySQL | MongoDB | Firebase
       <img src="https://github-readme-stats.vercel.app/api?username=puneetkushwaha&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_rank=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet123&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkushwaha&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top: 20px;">
-      <img src="https://streak-stats.demolab.com?user=puneet123&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=puneetkushwaha&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
