@@ -1,93 +1,135 @@
-<!-- Profile Picture Centered -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/148247654?s=400&u=1360f1c588c283e7172084f4a4358a98b466fdb9&v=4" alt="Puneet Kushwaha" width="120" height="120" style="border-radius: 50%;" />
-</p>
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=puneetkushwaha">
 
-<!-- Gradient Heading -->
-<h1 align="center" style="background: linear-gradient(90deg, #1e3c72, #2a5298); -webkit-background-clip: text; color: transparent; font-weight: 900;">
-  Hi, I'm Puneet! 👋
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Puneet!;&center=true&font=Righteous&size=35">
+  </a>
 </h1>
 
-<!-- Subtitle -->
-<p align="center" style="font-size: 1.2rem; font-weight: 600;">
-  Full Stack Developer | Java Enthusiast | AI & Data Science Explorer
+<br />
+
+<!-- about me -->
+<p align="center">
+  Hey, I'm Puneet Kushwaha — a Full Stack Developer 💻, Tech Content Creator 🎥 & AI Enthusiast 🤖 from India 🇮🇳.
+  <br />
+  <br />
+  🎓 Currently in 3rd year of B.Tech (Computer Science).
+  <br />
+  🧠 Learning DSA with Java | Exploring AI and LLMs.
+  <br />
+  🚀 Founder of <b>Verve Nova</b> — a tech agency for websites, apps & automation tools.
+  <br />
+  🧑‍💼 Also building Jarvis - An Offline Python-based AI Assistant.
 </p>
 
----
+<!-- social handles -->
+<div align="center"> 
+  <a href="https://www.youtube.com/@LayyzeeOrbit" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://twitter.com/itz_puneet24" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
+  <a href="mailto:kushwaha.puneet24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/puneetkushwaha24" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
 
-<!-- Tech Badges -->
+<hr />
+
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 🚀 What I'm Up To
-
-- 🔭 **Currently Building**: `Jarvis AI` – an offline, voice-based LLM assistant  
-- 🧠 **Experimenting With**: `MedMate` – AI-powered health companion  
-- 📚 **Learning**: Advanced ML techniques & real-world data pipelines  
-- 💬 **Ask Me About**: Java, Web Dev, AI workflows, or side hustle strategies  
-
----
-
-## 💻 Tech Stack
-
-| **Languages**  | **Frontend & Backend**           | **AI & Data Tools**                  | **Platforms & DevOps**       |
-|----------------|----------------------------------|--------------------------------------|------------------------------|
-| Java, Python   | React, Next.js, Node.js, Express | Pandas, NumPy, Matplotlib, Seaborn   | Git, GitHub, VS Code         |
-| JavaScript     | HTML, CSS, Bootstrap, Tailwind   | TensorFlow, PyTorch, Jupyter Notebook| Docker, Firebase, Postman    |
-| SQL, TypeScript| jQuery                           | Excel, CSV Pipelines                 | MongoDB, MySQL               |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puneetkushwaha&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_rank=true" width="48%" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkushwaha&layout=compact&theme=tokyonight&hide_title=true" width="48%" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=puneetkushwaha&theme=radical&hide_border=true" width="60%" />
-</p>
-
----
-
-## 🛠️ Featured Projects
-
-| 🚧 Project     | 🧠 Description                              | 🔗 Link |
-|---------------|----------------------------------------------|--------|
-| **Hydra-AI**  | Offline LLM-powered voice assistant           | [GitHub 🔗](https://github.com/puneetkushwaha/Hydra-AI-2.0) |
-| **QuizTrek**  | Interactive quiz platform with real-time score | [GitHub 🔗](https://github.com/puneetkushwaha/Quiz-Trek) |
-| **VerveNova** | Smart farming app with crop & market analysis | [GitHub 🔗](https://github.com/puneetkushwaha/Verve-Nova-Agency) |
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/puneettkushwaha/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/puneetk9452" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/kushwaha_puneett/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs" alt="skills - 1" />
+        </picture>
+      <br />
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase" alt="skills - 2" />
+      </picture>
   </a>
 </p>
 
----
-
-<p align="center" style="font-style: italic; color: #6c757d;">
-  Thanks for visiting! Let's build something amazing together. 🚀
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=vercel,netlify,railway,planetscale&theme=dark' />
+          <source media="(prefers-color-scheme: light)" srcset='https://skillicons.dev/icons?i=vercel,netlify,railway,planetscale&theme=light' />
+          <img src='https://skillicons.dev/icons?i=vercel,netlify,railway,planetscale' alt="deployment" />
+      </picture>
+  </a>
 </p>
+
+<hr />
+
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/puneetkushwaha/puneetkushwaha/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/puneetkushwaha/puneetkushwaha/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/puneetkushwaha/puneetkushwaha/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</div>
+
+<hr />
+
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<p align="center">
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=puneetkushwaha&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=puneetkushwaha&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://streak-stats.demolab.com/?user=puneetkushwaha&theme=default&border=61dafb" alt="Streak Stats" />
+      </picture>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=puneetkushwaha&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=puneetkushwaha&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=puneetkushwaha&show_icons=true&theme=default&border_color=61dafb" alt="GitHub Stats" />
+      </picture>
+    </a>
+  </div>
+</p>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+<!-- contribution graph -->
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=puneetkushwaha&theme=react-dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=puneetkushwaha&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneetkushwaha&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+    </picture>
+  </a>
+</p>
+
+<hr />
+
+<!-- repositories -->
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<div align="center">
+
+  <a href="https://github.com/puneetkushwaha/voice-ai-assistant" title="Jarvis - AI Assistant">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetkushwaha&repo=voice-ai-assistant&theme=graywhite&border_radius=10.0" />
+  </a>
+
+  <a href="https://github.com/puneetkushwaha/medmate-ai" title="MedMate - AI Health App">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=puneetkushwaha&repo=medmate-ai&theme=graywhite&border_radius=10.0" />
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div align="center">
+  <a href="https://github.com/puneetkushwaha?tab=repositories">🔎 Show More Projects 🔍</a>
+</div>
