@@ -1,20 +1,21 @@
-<!-- Profile pic centered -->
+<!-- Profile Picture Centered -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/148247654?s=400&u=1360f1c588c283e7172084f4a4358a98b466fdb9&v=4" alt="Puneet Kushwaha" width="120" height="120" style="border-radius: 50%;" />
 </p>
 
-
-<!-- 🌈 Gradient header -->
+<!-- Gradient Heading -->
 <h1 align="center" style="background: linear-gradient(90deg, #1e3c72, #2a5298); -webkit-background-clip: text; color: transparent; font-weight: 900;">
   Hi, I'm Puneet! 👋
 </h1>
 
+<!-- Subtitle -->
 <p align="center" style="font-size: 1.2rem; font-weight: 600;">
   Full Stack Developer | Java Enthusiast | AI & Data Science Explorer
 </p>
 
 ---
 
+<!-- Tech Badges -->
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,29 +30,22 @@
 
 ---
 
-<!-- rest of your code remains the same -->
-
-
----
-
 ## 🚀 What I'm Up To
 
-- 🔭 Working on: **Jarvis AI assistant** (Offline LLM-powered voice assistant)  
-- 💡 Building: **MedMate** – AI-powered healthcare assistant app  
-- 🌱 Learning: Advanced Machine Learning & Data Science
-- 💬 Ask me about: Java, Web Dev, AI, Data Science  
+- 🔭 **Currently Building**: `Jarvis AI` – an offline, voice-based LLM assistant  
+- 🧠 **Experimenting With**: `MedMate` – AI-powered health companion  
+- 📚 **Learning**: Advanced ML techniques & real-world data pipelines  
+- 💬 **Ask Me About**: Java, Web Dev, AI workflows, or side hustle strategies  
 
 ---
 
 ## 💻 Tech Stack
 
-| **Languages**           | **Web & Frameworks**           | **Data Science & ML**           | **Tools & Platforms**          |
-|------------------------|-------------------------------|--------------------------------|-------------------------------|
-| Java                   | HTML5, CSS3                   | Pandas, NumPy                  | Git, GitHub, VS Code           |
-| Python                 | JavaScript (ES6+), TypeScript| Matplotlib, Seaborn            | Postman, Docker (Basics)       |
-| JavaScript             | React, Next.js                | TensorFlow, PyTorch            | MySQL, MongoDB, Firebase       |
-| SQL                    | Node.js, Express.js           | Jupyter Notebook               |                               |
-|                        | Tailwind CSS, Bootstrap, jQuery| Excel                        |                               |
+| **Languages**  | **Frontend & Backend**           | **AI & Data Tools**                  | **Platforms & DevOps**       |
+|----------------|----------------------------------|--------------------------------------|------------------------------|
+| Java, Python   | React, Next.js, Node.js, Express | Pandas, NumPy, Matplotlib, Seaborn   | Git, GitHub, VS Code         |
+| JavaScript     | HTML, CSS, Bootstrap, Tailwind   | TensorFlow, PyTorch, Jupyter Notebook| Docker, Firebase, Postman    |
+| SQL, TypeScript| jQuery                           | Excel, CSV Pipelines                 | MongoDB, MySQL               |
 
 ---
 
@@ -68,26 +62,26 @@
 
 ---
 
-## 🛠️ Projects I’m Proud Of
+## 🛠️ Featured Projects
 
-| Project       | Description                                | Link                                                        |
-|---------------|--------------------------------------------|-------------------------------------------------------------|
-| **Hydra-AI**  | Voice assistant with offline LLM integration | [GitHub](https://github.com/puneetkushwaha/Hydra-AI-2.0)   |
-| **QuizTrek**  | Interactive quiz platform                   | [GitHub](https://github.com/puneetkushwaha/Quiz-Trek)      |
-| **VerveNova** | Farming toolkit with crop analysis features | [GitHub](https://github.com/puneetkushwaha/Verve-Nova-Agency) |
+| 🚧 Project     | 🧠 Description                              | 🔗 Link |
+|---------------|----------------------------------------------|--------|
+| **Hydra-AI**  | Offline LLM-powered voice assistant           | [GitHub 🔗](https://github.com/puneetkushwaha/Hydra-AI-2.0) |
+| **QuizTrek**  | Interactive quiz platform with real-time score | [GitHub 🔗](https://github.com/puneetkushwaha/Quiz-Trek) |
+| **VerveNova** | Smart farming app with crop & market analysis | [GitHub 🔗](https://github.com/puneetkushwaha/Verve-Nova-Agency) |
 
 ---
 
-## 🌐 Let’s Connect!
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/puneettkushwaha/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/puneettkushwaha/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/puneetk9452" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/puneetk9452" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kushwaha_puneett/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/kushwaha_puneett/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -95,5 +89,5 @@
 ---
 
 <p align="center" style="font-style: italic; color: #6c757d;">
-  Thanks for stopping by! Let's create amazing things together 🚀
+  Thanks for visiting! Let's build something amazing together. 🚀
 </p>
